@@ -1,0 +1,20 @@
+2022-07-13 00:48:14.713  INFO 18664 --- [main] com.prueba.jacu.JacuApplication          : Starting JacuApplication using Java 16.0.2 on JAC-ACER with PID 18664 (C:\Users\USUARIO\OneDrive\Escritorio\jacu\target\classes started by Jhony Caro in C:\Users\USUARIO\OneDrive\Escritorio\jacu)
+2022-07-13 00:48:14.716  INFO 18664 --- [main] com.prueba.jacu.JacuApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-07-13 00:48:16.527  INFO 18664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2022-07-13 00:48:16.536  INFO 18664 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-13 00:48:16.537  INFO 18664 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-13 00:48:16.635  INFO 18664 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-13 00:48:16.636  INFO 18664 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1873 ms
+2022-07-13 00:48:16.950  INFO 18664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2022-07-13 00:48:16.959  INFO 18664 --- [main] com.prueba.jacu.JacuApplication          : Started JacuApplication in 2.617 seconds (JVM running for 3.318)
+2022-07-13 00:48:48.180  INFO 18664 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-13 00:48:48.181  INFO 18664 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-13 00:48:48.182  INFO 18664 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-07-13 00:48:48.227  WARN 18664 --- [http-nio-8090-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: ""]
+2022-07-13 00:51:44.148  INFO 10224 --- [main] com.prueba.jacu.JacuApplicationTests     : Starting JacuApplicationTests using Java 16.0.2 on JAC-ACER with PID 10224 (started by Jhony Caro in C:\Users\USUARIO\OneDrive\Escritorio\jacu)
+2022-07-13 00:51:44.150  INFO 10224 --- [main] com.prueba.jacu.JacuApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2022-07-13 00:51:46.226  INFO 10224 --- [main] com.prueba.jacu.JacuApplicationTests     : Started JacuApplicationTests in 2.491 seconds (JVM running for 3.737)
+2022-07-13 01:04:48.423  INFO 18664 --- [RMI TCP Connection(26)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-07-13 01:12:28.914  INFO 21432 --- [main] com.prueba.jacu.JacuApplicationTests     : Starting JacuApplicationTests using Java 16.0.2 on JAC-ACER with PID 21432 (started by Jhony Caro in C:\Users\USUARIO\OneDrive\Escritorio\jacu)
+2022-07-13 01:12:28.916  INFO 21432 --- [main] com.prueba.jacu.JacuApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2022-07-13 01:12:31.022  INFO 21432 --- [main] com.prueba.jacu.JacuApplicationTests     : Started JacuApplicationTests in 2.498 seconds (JVM running for 3.718)
